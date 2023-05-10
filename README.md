@@ -466,7 +466,7 @@ export default App;
 - create components/Modal.js
 
 ```js
-const Modal = () => {
+ const Modal = () => {
   return (
     <aside className='modal-container'>
       <div className='modal'>
